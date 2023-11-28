@@ -16,7 +16,7 @@ _If you like the project, feel free to make a small [donation via PayPal](https:
 
 ## Installation
 1. First you need to install fuse on your system 
-2. Then you should download the newest release from the [GitHub release page](https://github.com/plexdrive/plexdrive/releases).
+2. Then you should download the newest release from the [GitHub release page](https://github.com/trulow/plexdrive/releases).
 3. Create your own client id and client secret (see [https://rclone.org/drive/#making-your-own-client-id](https://rclone.org/drive/#making-your-own-client-id)).
 4. Sample command line for plexdrive
 ```
