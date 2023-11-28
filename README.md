@@ -1,5 +1,5 @@
-<a href="https://github.com/plexdrive/plexdrive"><img src="logo/banner.png" alt="Plexdrive" /></a>
-[![Build Status](https://github.com/plexdrive/plexdrive/workflows/Go/badge.svg)](https://github.com/plexdrive/plexdrive/actions?query=workflow%3AGo)
+<a href="https://github.com/trulow/plexdrive"><img src="logo/banner.png" alt="Plexdrive" /></a>
+[![Build Status](https://github.com/trulow/plexdrive/workflows/Go/badge.svg)](https://github.com/trulow/plexdrive/actions?query=workflow%3AGo)
 
 __Plexdrive__ allows you to mount your Google Drive account as read-only fuse filesystem, with direct delete option on the filesystem.
 
