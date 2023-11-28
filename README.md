@@ -12,7 +12,7 @@ Please note that plexdrive doesn't currently support writes (adding new files or
 
 I tried using rclone for a long time, but got API Quota errors every day and/or multiple times per day, so I decided to try node-gdrive-fuse. The problem here was that it missed some of my media files, so as a result I started implementing my own file system library.
 
-_If you like the project, feel free to make a small [donation via PayPal](https://www.paypal.me/dowei). Otherwise support the project by implementing new functions / bugfixes yourself and create pull requests :)_
+_If you like the project, feel free to make a small [donation via PayPal](https://paypal.me/icarlonet). Otherwise support the project by implementing new functions / bugfixes yourself and create pull requests :)_
 
 ## Installation
 1. First you need to install fuse on your system 
