@@ -25,7 +25,7 @@ _If you like the project, feel free to make a small [donation via PayPal](https:
 
 ## Installation from Source
 1. Install FUSE an Go 1.11.4 or newer on your system (use latest stable Go version if possible)
-2. Clone the project: `git clone https://github.com/plexdrive/plexdrive`
+2. Clone the project: `git clone https://github.com/trulow/plexdrive`
 3. Run `GO111MODULE=on go install`
 4. Run `$GOPATH/bin/plexdrive` to use the instaled version (eg. `~/go/bin/plexdrive`)
 
